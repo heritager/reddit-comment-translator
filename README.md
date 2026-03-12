@@ -102,3 +102,24 @@ https://api.openai.com/v1/chat/completions
 - 默认翻译模式依赖公开端点，不保证一直稳定
 - AI 翻译通常更慢，而且可能产生费用
 - 保存在 userscript 环境里的 API Key 只适合个人使用，不适合高安全场景
+
+## 开源协议
+
+本项目使用 `MIT License`。
+
+你可以自由使用、修改、分发，但请保留原始版权和许可证文本。详细内容见 `LICENSE` 文件。
+
+## 问题反馈与贡献
+
+如果你在使用过程中遇到问题，或者想提出功能建议，可以直接在 GitHub 仓库中提交：
+
+- Bug 反馈
+- 功能建议
+- Pull Request
+
+如果你准备提交代码，建议优先说明：
+
+1. 问题出现在哪个 Reddit 页面
+2. 使用的是哪种翻译 provider
+3. 是否配置了自定义 API
+4. 浏览器和 Tampermonkey 版本
